@@ -3,3 +3,4 @@ tqdm
 notebook
 ipywidgets
 openai
+google-genai
