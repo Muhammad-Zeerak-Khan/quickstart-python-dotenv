@@ -1,5 +1,4 @@
-# base_repo
-A repository to start off basic projects
+# Python dotenv Demo
 
 * Inital setup
   ```bash
